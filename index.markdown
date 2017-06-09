@@ -1,6 +1,7 @@
 ---
 title: San Bernardino General Plan Bootstrap Site
 date: 2017-06-09 15:05:00 Z
+permalink: "/"
 Field name:
   Key 1: 
 ---
